@@ -1,0 +1,1 @@
+export { IStory } from './app';
